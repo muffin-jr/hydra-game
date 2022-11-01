@@ -1,1 +1,1 @@
-open the hydra game to make your virus
+open the hydra game(it is an apllication) to make your virus
